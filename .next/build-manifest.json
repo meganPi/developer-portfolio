@@ -1,0 +1,45 @@
+{
+  "devFiles": [],
+  "pages": {
+    "/about": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ],
+    "/contact": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ],
+    "/index": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ],
+    "/projects": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ],
+    "/test_routing": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ],
+    "/_app": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ],
+    "/_error": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ],
+    "/": [
+      "static/runtime/webpack-42652fa8b82c329c0559.js",
+      "static/chunks/commons.61a16c3aed958499d67a.js",
+      "static/runtime/main-a400d4535c08f609e47b.js"
+    ]
+  }
+}

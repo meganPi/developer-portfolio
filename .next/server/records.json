@@ -1,0 +1,81 @@
+{
+  "modules": {
+    "byIdentifier": {
+      "external \"react\"": 0,
+      "external \"next/link\"": 1,
+      "external \"styled-jsx/style\"": 2,
+      "external \"next/head\"": 3,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!components/MyLayout.js 12b28609e9506748038a52c27023359a": 4,
+      "external \"react-bootstrap/Image\"": 5,
+      "multi ./pages/about.js": 6,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/about.js": 7,
+      "multi ./pages/contact.js": 8,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/contact.js": 9,
+      "multi ./pages/index.js": 10,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/index.js": 11,
+      "multi ./pages/projects.js": 12,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/projects.js": 13,
+      "multi ./pages/test_routing.js": 14,
+      "node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!pages/test_routing.js": 15,
+      "multi node_modules/next/dist/pages/_app.js": 16,
+      "node_modules/next/dist/pages/_app.js": 17,
+      "external \"next/app\"": 18,
+      "multi node_modules/next/dist/pages/_error.js": 19,
+      "node_modules/next/dist/pages/_error.js": 20,
+      "external \"next/error\"": 21,
+      "multi node_modules/next/dist/pages/_document.js": 22,
+      "node_modules/next/dist/pages/_document.js": 23,
+      "external \"next/document\"": 24
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 13,
+      "14": 14,
+      "15": 15,
+      "16": 16,
+      "17": 17,
+      "18": 18,
+      "19": 19,
+      "20": 20,
+      "21": 21,
+      "22": 22,
+      "23": 23,
+      "24": 24
+    }
+  },
+  "chunks": {
+    "byName": {
+      "static/KEI20NBNgKrgO8IajRBns/pages/about.js": 0,
+      "static/KEI20NBNgKrgO8IajRBns/pages/contact.js": 1,
+      "static/KEI20NBNgKrgO8IajRBns/pages/index.js": 2,
+      "static/KEI20NBNgKrgO8IajRBns/pages/projects.js": 3,
+      "static/KEI20NBNgKrgO8IajRBns/pages/test_routing.js": 4,
+      "static/KEI20NBNgKrgO8IajRBns/pages/_app.js": 5,
+      "static/KEI20NBNgKrgO8IajRBns/pages/_error.js": 6,
+      "static/KEI20NBNgKrgO8IajRBns/pages/_document.js": 7
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
+  }
+}

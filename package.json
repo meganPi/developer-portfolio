@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Developer portfolio created using next.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "now-build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Megan Pieterse",
+  "license": "ISC",
+  "dependencies": {
+    "@zeit/next-css": "1.0.1",
+    "bootstrap": "4.3.1",
+    "next": "10.2.0",
+    "react": "16.8.5",
+    "react-bootstrap": "1.5.2",
+    "react-dom": "16.8.5"
+  }
+}
