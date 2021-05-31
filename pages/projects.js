@@ -13,7 +13,10 @@ export default () => (
                 <p>Capstone Project I Level 2: Github (Click Me)</p></a>
             <h2>iTunes App</h2>
                 <a href="https://secure-mesa-71685.herokuapp.com/">
-                <p>Capstone Project II Level 2: Heroku (Click Me)</p></a>          
+                <p>Capstone Project II Level 2: Heroku (Click Me)</p></a> 
+            <h2>Woosh</h2>
+                <a href="https://github.com/meganPi/woosh.git">
+                    <p>Final Capstone Project Level 3 (Click Me)</p></a>         
 		< style jsx> {`
 			h1 {
 				color: white;
